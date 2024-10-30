@@ -1,0 +1,100 @@
+# Copyright (C) 2023 Alex Lavyhin
+# This file is distributed under the same license as the Bundle Product Manager for WooCommerce. plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bundle Product Manager for WooCommerce. 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bundle-product-"
+"manager\n"
+"POT-Creation-Date: 2023-12-15T15:47:56+00:00\n"
+"PO-Revision-Date: 2023-12-15 16:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Domain: bundle-product-manager\n"
+
+#. Plugin Name of the plugin
+msgid "Bundle Product Manager for WooCommerce."
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://i-wp-dev.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Our WordPress WooCommerce plugin provides unique functionality by allowing "
+"you to easily add multiple additional products to your main product before "
+"checkout. This is a convenient solution for customers who want to collect "
+"complex sets of products and easily customize their orders. Improve the "
+"customer experience and increase sales with our plugin."
+msgstr ""
+"Наш плагін WordPress WooCommerce надає унікальну функціональність, "
+"дозволяючи легко додавати кілька додаткових товарів до вашого основного "
+"продукту перед оформленням замовлення. Це зручний рішення для клієнтів, які "
+"бажають зібрати складні набори товарів і легко налаштувати свої замовлення. "
+"Покращуйте досвід клієнтів та збільшуйте продажі за допомогою нашого плагіна."
+
+#. Author of the plugin
+msgid "Alex Lavyhin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/alexlavigin/"
+msgstr ""
+
+#. translators: 1: Required PHP version number, 2: Current PHP version number, 3: URL of PHP update help page
+#: src/php/Admin/Notification/BPM_Notification.php:26
+msgid ""
+"The Bundle Product Manager plugin requires PHP version %1$s or higher. This "
+"site is running PHP version %2$s. <a href=\"%3$s\">Learn about updating PHP</"
+"a>."
+msgstr ""
+"Плагін Bundle Product Manager вимагає версію PHP %1$s або вище. На даному "
+"сайті встановлено версію PHP %2$s. <a href=\"%3$s\">Дізнатися про оновлення "
+"PHP</a>"
+
+#: src/php/Admin/Notification/BPM_Notification.php:48
+msgid "To activate this plugin you must first activate WooCommerce"
+msgstr "Для активації цього плагіна спочатку потрібно активувати WooCommerce."
+
+#: src/php/BPM_Handlers.php:76 src/php/BPM_Handlers.php:145
+msgid "Invalid nonce code"
+msgstr "Одноразовий код невірний"
+
+#: src/php/BPM_Handlers.php:83
+msgid "You sent an empty string"
+msgstr "Ви відправили пустий рядок"
+
+#: src/php/BPM_Handlers.php:112
+msgid "No results were found for your request"
+msgstr "Для вашого запиту результати відсутні"
+
+#: src/php/BPM_Handlers.php:152
+msgid "Empty product id"
+msgstr "Порожній ідентифікатор продукту"
+
+#: src/php/BPM_Handlers.php:158
+msgid "All product delete"
+msgstr "Усі товари видалені"
+
+#: src/php/BPM_Handlers.php:163
+msgid "Products have been removed"
+msgstr "Товари було видалено"
+
+#: src/php/BPM_Output.php:45
+msgid "Product bundle"
+msgstr "Набір товарів"
+
+#: src/php/BPM_Output.php:69
+msgid "Select product"
+msgstr "Обрати товар"
+
+#: src/php/BPM_Output.php:71
+msgid "Type any keyword to search"
+msgstr "Введіть будь-яке ключове слово для пошуку"
